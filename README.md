@@ -19,7 +19,7 @@
 
 ## 🎲 Fun Facts
 
-- I started coding with Scratch when I was 6  
+- I started coding when I was 6! I started with scratch, then moved to Python, all self-learnt (some in school too)!
 - I love fiction books and movies  
 - I always use dark mode 🧛
 
